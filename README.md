@@ -1,6 +1,8 @@
 First Day with Python
 =====================
 
+[![Gitter chat](https://badges.gitter.im/yungyuc/first_day_with_python.png)](https://gitter.im/first_day_with_python/Lobby)
+
 This is a workshop designed for people who have zero experience with computer programming.  The course materials are still in progress.  Feel free to open an issue if you want to contact us.
 
 # References
