@@ -3,7 +3,21 @@ First Day with Python
 
 [![Gitter chat](https://badges.gitter.im/yungyuc/first_day_with_python.png)](https://gitter.im/first_day_with_python/Lobby)
 
-This is a workshop designed for people who have zero experience with computer programming.  The course materials are still in progress.  Feel free to open an issue if you want to contact us.
+This is a bootcamp to introduce Python to people who have zero experience with
+computer programming.  The course is exercise-centric.  Students will
+experience Python by using their own hands.
+
+It is s full-day bootcamp divided into two parts.  In the morning it uses half
+an hour to deliver minimal explanation for Python, and outline the course.  It
+is followed by the first session of two hours.  Lunch break is one hour.  In
+the afternoon, there is the second session of two hours, too.  The formal
+course ends but the bootcamp ends after another hour of free discussions.  More
+detail of the outline can be found in the [introduction
+notebook](introduction.ipynb#Course-Outline).
+
+This repository hosts the course materials and provides communication among
+instructors, collaborators, and students.  Open an issue if you want to contact
+us.
 
 # References
 
