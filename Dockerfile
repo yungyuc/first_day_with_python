@@ -1,7 +1,5 @@
-FROM jupyter/base-notebook:61d8aaedaeaf
+FROM jupyter/base-notebook:17aba6048f44
 MAINTAINER "chestercheng <chester7864@gmail.com>"
-
-ADD * /home/$NB_USER/work/
 
 # Intstall jupyter extensions
 USER root
@@ -10,7 +8,6 @@ RUN pip install 'matplotlib==3.0.0' && \
     pip install 'jupyter-contrib-nbextensions==0.5.0'
 RUN jupyter contrib nbextension install --system && \
     jupyter nbextension enable runtools/main
-RUN fix-permissions $CONDA_DIR && \
-    fix-permissions /home/$NB_USER
+RUN fix-permissions $CONDA_DIR
 
 USER $NB_USER
