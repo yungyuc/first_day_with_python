@@ -1,4 +1,4 @@
-Copyright (C) 2018, Yung-Yu Chen <yyc@solvcon.net> , all rights reserved.
+Copyright (C) 2018, [Yung-Yu Chen](<yyc@solvcon.net>), all rights reserved.
 
 First Day with Python
 =====================
