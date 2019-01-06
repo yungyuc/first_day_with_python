@@ -1,7 +1,9 @@
+Copyright (C) 2018, Yung-Yu Chen <yyc@solvcon.net> , all rights reserved.
+
 First Day with Python
 =====================
 
-[![Gitter chat](https://badges.gitter.im/yungyuc/first_day_with_python.png)](https://gitter.im/first_day_with_python/Lobby)
+[![Gitter team chat](https://badges.gitter.im/yungyuc/first_day_with_python.png)](https://gitter.im/first_day_with_python/Lobby)
 
 This is a bootcamp to introduce Python to people who have zero experience with
 computer programming.  The course is exercise-centric.  Students will
